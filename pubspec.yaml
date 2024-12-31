@@ -1,0 +1,50 @@
+name: husna_diary
+description: A new Flutter project
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: any
+  path: any
+  image_picker: any
+  firebase_core: ^2.14.0
+  firebase_auth: ^4.6.0
+
+
+
+  # Add other dependencies here
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  # This line enables the use of Material Design icons and themes in your Flutter app.
+  uses-material-design: true
+
+  # List of assets (images) used in the app
+  assets:
+    - assets/happy.png
+    - assets/sad.png
+    - assets/angry.png
+    - assets/anxious.png
+    - assets/scared.png
+    - assets/bored.png
+    - assets/book.png
+    - assets/x.jpg
+    - assets/google.jpg
+    - assets/facebook.png
+    - assets/background.jpg
+  
+
+  # Configuration for custom fonts used in the app
+  

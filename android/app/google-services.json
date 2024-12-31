@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128082341210",
+    "project_id": "indi661-1f44c",
+    "storage_bucket": "indi661-1f44c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128082341210:android:c0a7b7f7e078db037b9763",
+        "android_client_info": {
+          "package_name": "com.example.husna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Xh9L_tvWY-GvCGKSC9en7-_DskOxYPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
